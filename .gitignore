@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+dataset
+dataset_colmap
+dataset_neus
+dataset_real
+exp
+ground_truth
+raft_stereo
+scenes
+ground_truth_mesh
